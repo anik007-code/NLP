@@ -1,0 +1,5 @@
+DATA/
+__pycache__/
+.idea/
+venv/
+NLP practice.ipynb
